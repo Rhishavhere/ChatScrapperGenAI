@@ -1,0 +1,1 @@
+EDGE_DATA_PATH='user-data-dir=C:\\Users\\Rhishav\\AppData\\Local\\MicrosoftEdge\\User\\Default'
